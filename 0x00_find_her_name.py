@@ -1,6 +1,5 @@
 #! /usr/bin/python
-# coding:utf-8
-# Copyright 2015 wonderqs <https://github.com/wonderqs>
+# encoding: utf-8
 #
 # 0x00_find_her_name.py
 #
